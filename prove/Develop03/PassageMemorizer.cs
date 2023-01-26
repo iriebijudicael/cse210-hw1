@@ -21,6 +21,7 @@ class PassageMemorizer
     {
         int getWordsRemove = new Random().Next(3, 5);
         int wordsRemoved = 0;
+        
 
         do
         {

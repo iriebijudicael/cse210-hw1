@@ -11,6 +11,7 @@ class Scripture
        scriptureReference = _scriptureReference;
     }
 
+
     public string GetToString ()
     {
         return string.Format("{0}", scriptureText);

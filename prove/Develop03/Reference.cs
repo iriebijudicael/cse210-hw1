@@ -11,6 +11,7 @@ class Reference
         chapter = _chapter;
         verse = _verse;  
     }
+    
 
     public string GetToString ()
     {
